@@ -4,6 +4,8 @@ jquery-plugin-change-or-delayed-key-listener
 
 A jQuery plugin that adds two event listeners to an element. On is a change event listener and the other is a key event (``keydown`` by default). Whilst, the change event executes the callback instantly, the key event will be delayed by a few milliseconds (``500`` by default) before executing the callback. This allows developers to trigger an action on input elements when the user changes the element or as they type, but without overwhelming the user or the system with too many events.
 
+A demo is available at http://codepen.io/mattsnider/pen/kzavw
+
 $.fn.changeOrDelayedKey(fn)
 ===========================
 
