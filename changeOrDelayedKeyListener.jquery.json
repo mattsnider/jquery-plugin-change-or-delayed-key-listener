@@ -1,0 +1,31 @@
+{
+  "name": "changeOrDelayedKeyListener",
+  "title": "jQuery on Change or Delayed Key Event Listener",
+  "description": "jQuery plugin to subscribe to change and a delayed key event on an element.",
+  "keywords": [
+    "change",
+    "delay",
+    "event",
+    "key",
+    "listener"
+  ],
+  "version": "1.0.0",
+  "author": {
+  	"email": "admin@mattsnider.com",
+    "name": "Matt Snider",
+    "url": "http://www.mattsnider.com"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "bugs": "https://github.com/mattsnider/jquery-plugin-change-or-delayed-key-listener/issues",
+  "homepage": "https://github.com/mattsnider/jquery-plugin-change-or-delayed-key-listener",
+  "docs": "https://github.com/mattsnider/jquery-plugin-change-or-delayed-key-listener",
+  "download": "https://github.com/mattsnider/jquery-plugin-change-or-delayed-key-listener/archive/master.zip",
+  "dependencies": {
+    "jquery": ">=1.9"
+  }
+}
